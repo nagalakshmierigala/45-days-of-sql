@@ -1,2 +1,2 @@
 # Day1 
-I started my journey into SQL with the goal of mastering the basics. I chose HackerRank as my platform for practice because of its structured challenges and instant feedback mechanism.
+I embarked on a journey to sharpen my SQL skills, aiming to refine and expand my existing knowledge. I selected HackerRank as my platform of choice due to its well-structured challenges and the instant feedback it offers. This approach allows me to focus on practicing and enhancing my proficiency in SQL, tackling a variety of problems that push the boundaries of my understanding and skill set.
